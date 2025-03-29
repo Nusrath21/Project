@@ -8,31 +8,6 @@ The goal of this project is to collaborate with your Collab Lab team to create a
 
 As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”) into your list. Each time you buy the item, you mark it as purchased in the list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list.
 
-## Check out an example
-
-The app will work in many of the same ways as [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/) (on which our project is based) with the exception that we will not be implementing barcode scanning (that feature would add a lot of scope to the project and wasn’t all that useful).
-
-:tv: &nbsp; Check out a video demo of the example app here: 
-[![](https://cdn.zappy.app/33815167c45d74c3ae5af232de633add.png)](https://www.youtube.com/watch?v=mwj74mE9s64&t)
-
-## More details for contributors
-
-🎉  &nbsp; If you’re a Collab Lab participant, first of all: WELCOME! We’re so excited to work with you and collaborate on something amazing.
-
-### Make your first contribution!
-
-The first thing you will want to do before your kick-off call is make your first contribution to this repo. This will help make sure you’re ready to go on day one.
-
-- Get this project set up locally by following the instructions [below in this README](#project-setup).
-- Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file
-  - Be sure to do this from your local environment and not from GitHub in your browser. The purpose (aside from highlighting our amazing team) is to make sure you’re local environment is all set up and ready to go come day 1!
-  - Commit to the `main` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to main will do just fine.)
-
-### What else should contributors know?
-For additional details on how your cohort will operate, please check out the [project brief](PROJECT-BRIEF.md).
-
-<hr>
-
 # Project setup
 
 ## Download Node and NPM
