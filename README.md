@@ -18,7 +18,7 @@ As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”)
 ## Clone project locally
 
 * On GitHub, navigate to the repo for your cohort’s project (you’re probably there right now, click the "Code" tab at the top).
-* 
+  
 * Click the green "Clone or download" button and copy the web URL.
 
 * From your terminal, `cd` into the directory where you want this project to live.
